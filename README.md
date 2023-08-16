@@ -30,10 +30,10 @@ The code is written in Python, so make sure to have the latest version of python
 ### Preview
 
 **1. A highly biased distribution of Movies and TV Shows**
-![image](https://github.com/nikhilsukhdev/Netflix-Data-Analysis/assets/46552468/7900ce18-22de-4a8a-a50c-204d49203d0d)
+![image](https://github.com/nikhilsukhdev/Telecom_Churn_Analysis/assets/46552468/d13ca638-8b54-491f-9da5-1148fed85352)
 <br>
 
-**2. Releases per year
+**2. Releases per year**
 ![image](https://github.com/nikhilsukhdev/Netflix-Data-Analysis/assets/46552468/a9ebf161-d6cc-4d71-8e6c-6b768630e07e)
 <br>
 
