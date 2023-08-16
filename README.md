@@ -38,6 +38,10 @@ The code is written in Python, so make sure to have the latest version of python
 <br>
 
 **2. Releases per year**
-![image](https://github.com/nikhilsukhdev/Netflix-Data-Analysis/assets/46552468/a9ebf161-d6cc-4d71-8e6c-6b768630e07e)
+
+
+
+![image](https://github.com/nikhilsukhdev/Netflix-Data-Analysis/assets/46552468/80692dbc-608f-4c40-aab3-1ec25872b859)
+
 <br>
 
