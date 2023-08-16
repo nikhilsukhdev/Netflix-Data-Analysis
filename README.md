@@ -23,6 +23,10 @@ This repository holds an EDA project, analyzing Netflix data. The dataset has 77
 
 The code is written in Python, so make sure to have the latest version of python installed. For scripting, either an IDE or an online platform such as Jupyter or Google Colab could be used.
 
+### Libraries required
+
+Pandas, Matplotlib, Seaborn. All these could be installed using pip instsall 'library' in the command line of your IDE or operating system. In case of using google colab, you could directly mport these libraries as these are already pre-installed
+
 ### Contributor
 
 [Nikhil Sukhdev](https://github.com/nikhilsukhdev)
@@ -45,3 +49,5 @@ The code is written in Python, so make sure to have the latest version of python
 
 <br>
 
+#### Reach out on:
+[Linkedin](https://linkedin.com/in/nikhil-sukhdev-882395183) 
