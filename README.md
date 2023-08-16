@@ -30,4 +30,5 @@ The code is written in Python, so make sure to have the latest version of python
 ### Preview
 
 **1. A highly biased distribution of Movies and TV Shows**
-  ![image](https://github.com/nikhilsukhdev/Netflix-Data-Analysis/assets/46552468/7900ce18-22de-4a8a-a50c-204d49203d0d)
+![image](https://github.com/nikhilsukhdev/Netflix-Data-Analysis/assets/46552468/7900ce18-22de-4a8a-a50c-204d49203d0d)
+<br>
