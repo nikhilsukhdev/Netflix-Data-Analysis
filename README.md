@@ -4,7 +4,7 @@ This project explores some insights on Netflix data.
 ### About the data
 The dataset used for analysis is an open-sourced dataset, available for free download. The dataset has been included in this repository. 
 
-### A 4 step data analysis pipeline has been : 
+### A four step data analysis pipeline has been created: 
 **1. Exploring the data**
 <br>
 **2. Data Wrangling, which includes data cleaning tasks**
