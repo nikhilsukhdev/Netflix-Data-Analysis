@@ -25,7 +25,7 @@ The code is written in Python, so make sure to have the latest version of python
 
 ### Libraries required
 
-Pandas, Matplotlib, Seaborn. All these could be installed using pip instsall 'library-name' in the command line of your IDE or operating system. In case of using google colab, you could directly mport these libraries as these are already pre-installed
+Pandas, Matplotlib, Seaborn. All these could be installed using pip instsall 'library-name' in the command line of your IDE or operating system. In case of using google colab, you could directly import these libraries as these are already pre-installed
 
 ### Contributor
 
