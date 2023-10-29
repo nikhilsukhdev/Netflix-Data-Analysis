@@ -36,8 +36,7 @@ Pandas, Matplotlib, Seaborn. All these could be installed using pip instsall 'li
 ### Preview
 
 **Tableau Dashboard**
-![image](https://github.com/nikhilsukhdev/Netflix-Data-Analysis/assets/46552468/345c064f-6e1b-48f7-ab15-655cd08b1d13)
-
+![image](https://github.com/nikhilsukhdev/Netflix-Data-Analysis/assets/46552468/97178a8c-66c0-4a3b-8581-5e077ddfbdce)
 
 <br>
 
