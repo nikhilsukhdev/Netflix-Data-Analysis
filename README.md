@@ -1,17 +1,17 @@
 # Netflix-Data-Analysis
-This project explores some previously unexplored insights pertaining to movies on Netflix.
+This project explores some insights on Netflix data.
 
-### Introduction
-This repository holds an EDA project, analyzing Netflix data. The dataset has 7789 records. However, we did encounter a significant proportion of missing data which had to be dropped to ennsure sanctity of the EDA process. After dropping missing data, the final dataset has 4809 rows.
+### About the data
+The dataset used for analysis is an open-sourced dataset, available for free download. The dataset has been included in this repositiry. 
 
-### The EDA process is a 4 step approach, namely: 
+### A 4 step data analysis pipeline has been : 
 **1. Exploring the data**
 <br>
 **2. Data Wrangling, which includes data cleaning tasks**
 <br>
-**3. Extracting Insights**
+**3. Extracting Insights (Exploratory Data Analysis)**
 <br>
-**4. Visualization**
+**4. Visualization through Tableau**
 
 ### The repo contanis the following items: 
 **1. Dataset**
@@ -25,7 +25,7 @@ The code is written in Python, so make sure to have the latest version of python
 
 ### Libraries required
 
-Pandas, Matplotlib, Seaborn. All these could be installed using pip instsall 'library' in the command line of your IDE or operating system. In case of using google colab, you could directly mport these libraries as these are already pre-installed
+Pandas, Matplotlib, Seaborn. All these could be installed using pip instsall 'library-name' in the command line of your IDE or operating system. In case of using google colab, you could directly mport these libraries as these are already pre-installed
 
 ### Contributor
 
@@ -33,19 +33,9 @@ Pandas, Matplotlib, Seaborn. All these could be installed using pip instsall 'li
 
 ### Preview
 
-**1. A highly biased distribution of Movies and TV Shows**
+**1. Tableau Dashboard**
+![image](https://github.com/nikhilsukhdev/Netflix-Data-Analysis/assets/46552468/345c064f-6e1b-48f7-ab15-655cd08b1d13)
 
-
-
-![image](https://github.com/nikhilsukhdev/Netflix-Data-Analysis/assets/46552468/32746963-87b2-48f2-bf43-926ab549ff16)
-
-<br>
-
-**2. Releases per year**
-
-
-
-![image](https://github.com/nikhilsukhdev/Netflix-Data-Analysis/assets/46552468/80692dbc-608f-4c40-aab3-1ec25872b859)
 
 <br>
 
