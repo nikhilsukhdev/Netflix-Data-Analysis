@@ -18,6 +18,8 @@ The dataset used for analysis is an open-sourced dataset, available for free dow
 <br>
 **2. EDA Notebook**
 <br>
+**3. Tableau Dashboard**
+<br>
 
 ### Software requirements:
 
